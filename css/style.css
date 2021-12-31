@@ -112,6 +112,10 @@ body{
     background-size: cover;
 
 }
+..app-download img{
+    width: 100px;
+    height: 60px;
+}
 @media (max-width: 1024px){
     .instagram-wrapper{
         width: 90%;
