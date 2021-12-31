@@ -147,4 +147,7 @@ body{
         border: 1px solid transparent;
         background-color: #F3F3F3;
     }
+    .app-download img{
+        display: none;
+    }
 }
