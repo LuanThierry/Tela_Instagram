@@ -65,7 +65,7 @@ body{
     align-items: center;
     border-radius: 50%;
     overflow: hidden;
-
+    margin: 1.2rem 0;
 
 }
 .profile-photo img{
