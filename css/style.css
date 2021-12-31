@@ -112,7 +112,7 @@ body{
     background-size: cover;
 
 }
-..app-download img{
+.app-download img{
     width: 100px;
     height: 60px;
 }
