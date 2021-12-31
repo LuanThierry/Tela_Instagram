@@ -4,6 +4,7 @@
     box-sizing: border-box;
     text-decoration: none;
     font-size: 14px;
+    font-family: sans-serif;
 }
 body{
     width: 100%;
@@ -118,4 +119,19 @@ body{
     background-image: url('./img/googleplay-button.png');
 }
 
-@media
+@media (max-width: 1024px){
+    .instagram-wrapper{
+        width: 90%;
+    }
+}
+@media (max-width: 720px){
+    .instagram-wrapper{
+        width: 90%;
+    }
+    .instagram-phone{
+        display: none;
+    }
+    .instagram-continue{
+        width:100%
+    }
+}
