@@ -1,15 +1,15 @@
 # Clone da interface do instagram responsiva.
 
 ### Em Computador:
-<img src="PC.PNG" height="350px" width="600px">
+<img src="PC.PNG" height="180px" width="300px">
 
 
 ### Em Tablet:
-<img src="TABLET.PNG" height="350px" width="500px">
+<img src="TABLET.PNG" height="180px" width="300px">
 
 
 ### Em celular:
-<img src="MOBILE.PNG" height="400px" width="280px">
+<img src="MOBILE.PNG" height="280px" width="180px">
 
 <hr>
 
