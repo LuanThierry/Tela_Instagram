@@ -124,7 +124,7 @@ body{
 }
 @media (max-width: 720px){
     .instagram-wrapper{
-        width: 80%;
+        width: 70%;
     }
     .instagram-phone{
         display: none;
@@ -150,5 +150,14 @@ body{
     }
     .app-download img{
         display: none;
+    }
+    .get-the-app{
+        display: none;
+    }
+    .instagram-logo{
+        margin-bottom: 1rem;
+    }
+    .instagram-login{
+        margin-top: 1.2rem;
     }
 }
